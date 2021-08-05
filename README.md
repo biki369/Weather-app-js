@@ -1,2 +1,2 @@
- Basic Ui  and using weather api  https://bickytirua.github.io/Weather-app-js/
+ Basic Ui  and using weather api https://biki369.github.io/Weather-app-js/
 # Weather-app-js
